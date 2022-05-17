@@ -45,4 +45,5 @@ place token of your bot to config.json
 ```bash
 node index.js
 ```
+<br>
 After that use $help and enjoy!
