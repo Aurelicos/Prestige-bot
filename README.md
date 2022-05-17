@@ -37,7 +37,7 @@ npm install
 ```
 
 ## Starting the application
-place token of your bot to config.json
+place token of your bot to [config.json](https://github.com/Aurelicos/Prestige-bot/blob/main/config.json)
 ```json
 {
     "token":"Your token here"
