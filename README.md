@@ -8,7 +8,7 @@ A simple discord bot that helps you manage your server. This bot contains a lot 
 * [Main script](https://github.com/Aurelicos/Prestige-bot/blob/main/index.js)
 * [Commands](https://github.com/Aurelicos/Prestige-bot/tree/main/commands)
 * [Anime](https://github.com/Aurelicos/Prestige-bot/tree/main/commands/anime)
-* [18+ hentai](https://github.com/Aurelicos/Prestige-bot/tree/main/commands/anime/hentai)
+* [hentai 18+](https://github.com/Aurelicos/Prestige-bot/tree/main/commands/anime/hentai)
 * [License](https://github.com/Aurelicos/Prestige-bot/blob/main/LICENSE)
 
 ## Requirements
