@@ -4,12 +4,12 @@ A simple discord bot that helps you manage your server. This bot contains a lot 
 
 ## Content
 
-* [Config.json(put your token here)](#config.json)
-* [Main script](#index.js)
-* [Commands](#commands)
-* [Anime](#anime)
-* [18+ hentai 18+](#hentai)
-* [License](#license)
+* [Config.json (require your token)](#)
+* [Main script](#)
+* [Commands](#)
+* [Anime](#)
+* [18+ hentai 18+](#)
+* [License](#)
 
 ## Requirements
 
