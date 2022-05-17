@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/voice": "^0.9.0",
+    "@iceprod/discord.js-commando": "^0.15.1",
+    "@mapbox/node-pre-gyp": "^1.0.9",
+    "anime-images-api": "^2.0.0",
+    "cross-fetch": "^3.1.5",
+    "discord-player": "^5.2.2",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.5.3",
+    "es6-promise": "^4.2.8",
+    "fetch": "^1.1.0",
+    "fetch-node": "^0.0.1",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "isomorphic-fetch": "^3.0.0",
+    "nekos.life": "^3.0.0",
+    "no": "^0.0.1",
+    "node": "^14.19.1",
+    "node-fetch": "^2.6.7",
+    "node-opus": "^0.3.3",
+    "node-pre-gyp": "^0.17.0",
+    "node.js": "^0.0.1-security",
+    "opus": "^0.0.0",
+    "opusscript": "^0.0.8",
+    "play-dl": "^1.9.4",
+    "undici": "^5.1.1",
+    "winston": "^3.7.2",
+    "ytdl-core": "^4.11.0"
+  }
+}
