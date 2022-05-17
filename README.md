@@ -22,7 +22,7 @@ A simple discord bot that helps you manage your server. This bot contains a lot 
 - [discord.js](https://discord.js.org/#/)
 - [opus](#)
 
-### Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -35,7 +35,7 @@ cd Discord\ bot/
 npm install
 ```
 
-### Starting the application
+## Starting the application
 place token of your bot to config.json
 ```json
 {
