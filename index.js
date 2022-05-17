@@ -65,10 +65,10 @@ client.on('message', message => {
             .setAuthor("Error")
             .setColor("#ff0000");
         embed.setDescription(`
-        The command: \`${prefix}${command}\` is not recognised. 
+The command: \`${prefix}${command}\` is not recognised. 
 
-        The prefix for this server is: \`${prefix}\`
-        For a list of commands, use \`${prefix}help\``
+The prefix for this server is: \`${prefix}\`
+For a list of commands, use \`${prefix}help\``
         );
         return message.channel.send(embed);
     } else if (!client.commands.get(command)) {
