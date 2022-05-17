@@ -37,7 +37,7 @@ npm install
 
 ### Starting the application
 ```json
-//place token of your bot here
+#place token of your bot here
 {
     "token":"Your token here"
 }
