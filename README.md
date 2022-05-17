@@ -21,6 +21,7 @@ A simple discord bot that helps you manage your server. This bot contains a lot 
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [discord.js](https://discord.js.org/#/)
 - [opus](https://www.npmjs.com/package/@discordjs/opus)
+- [anime-images-api](https://www.npmjs.com/package/anime-images-api)
 
 ## Installation
 
