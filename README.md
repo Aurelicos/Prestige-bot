@@ -14,8 +14,8 @@ A simple discord bot that helps you manage your server. This bot contains a lot 
 ## Requirements
 
 - [Node](https://nodejs.org/en/)
-- [NPM](https://www.npmjs.com/)
-- [FFMPEG](https://www.ffmpeg.org/)
+- [Npm](https://www.npmjs.com/)
+- [Ffmpeg](https://www.ffmpeg.org/)
 - [nekos.life](https://nekos.life/)
 - [ytdl-core](https://github.com/fent/node-ytdl-core)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
