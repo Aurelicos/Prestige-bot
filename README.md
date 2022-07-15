@@ -30,7 +30,7 @@ A simple discord bot that helps you manage your server. This bot contains a lot 
 git clone https://github.com/Aurelicos/Prestige-bot
 
 # Enter into the directory
-cd Discord\ bot/
+cd Prestige-bot
 
 # Install the dependencies
 npm install
